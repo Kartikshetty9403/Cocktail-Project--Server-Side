@@ -6,8 +6,8 @@ It uses **Express**, **EJS**, and **Axios**, and fetches data from [TheCocktailD
 ## How to run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/cocktail-finder.git
-   cd cocktail-finder
+   git clone https://github.com/Kartikshetty9403/Cocktail-Project--Server-Side.git
+   cd Cocktail-Project--Server-Side
 
  Install Packages: npm install
 
