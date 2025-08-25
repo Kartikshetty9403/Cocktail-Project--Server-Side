@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #fafafa;
+}
+h1 {
+  color: #ff6f61;
+}
+img {
+  border-radius: 12px;
+  margin: 10px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,.2);
+}
+form {
+  margin-top: 20px;
+}
+input {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+button {
+  padding: 8px 12px;
+  margin-left: 5px;
+  background: #ff6f61;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+button:hover {
+  background: #ff4c3b;
+}
+
+.instructions {
+  max-width: 600px;   /* keeps it from stretching too wide */
+  margin: 20px auto;  /* centers it horizontally */
+  line-height: 1.6;   /* better readability */
+  font-size: 1.1rem;
+  background: #f9f9f9; /* light background for contrast */
+  padding: 15px 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.instructions h2 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+.instructions ol, 
+.instructions ul {
+  padding-left: 20px;
+}
+.instructions li {
+  margin-bottom: 8px;
+  text-align: left;
+}
